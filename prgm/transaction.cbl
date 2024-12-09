@@ -1,5 +1,5 @@
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. Calcule-Transactions.
+       PROGRAM-ID. Calcul-Transactions.
 
                                                                         
                                                                        
